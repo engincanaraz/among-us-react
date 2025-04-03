@@ -29,7 +29,7 @@ function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           <div className="bg-among-space rounded-lg overflow-hidden text-center p-6 shadow-lg">
             <img
-              src="../../public/images/person/person1.png"
+              src="/images/person/person1.png"
               alt="Team Member"
               className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
             />
@@ -42,7 +42,7 @@ function About() {
 
           <div className="bg-among-space rounded-lg overflow-hidden text-center p-6 shadow-lg">
             <img
-              src="../../public/images/person/person2.png"
+              src="/images/person/person2.png"
               alt="Team Member"
               className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
             />
@@ -55,7 +55,7 @@ function About() {
 
           <div className="bg-among-space rounded-lg overflow-hidden text-center p-6 shadow-lg">
             <img
-              src="../../public/images/person/person3.png"
+              src="/images/person/person3.png"
               alt="Team Member"
               className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
             />
@@ -68,7 +68,7 @@ function About() {
 
           <div className="bg-among-space rounded-lg overflow-hidden text-center p-6 shadow-lg">
             <img
-              src="../../public/images/person/person4.png"
+              src="/images/person/person4.png"
               alt="Team Member"
               className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
             />

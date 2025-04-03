@@ -61,7 +61,7 @@ function HowToPlay() {
         <div className="space-y-12 sm:space-y-16 md:space-y-20">
           <div className="relative">
             <img
-              src="../../public/images/the-crew.png"
+              src="/images/the-crew.png"
               alt="The Crew"
               className="mx-auto mb-4 sm:mb-8 h-16 sm:h-20 md:h-24 w-auto"
             />
@@ -71,7 +71,7 @@ function HowToPlay() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 md:gap-10 mx-2 sm:mx-6 md:m-10">
               <div className="flex items-start space-x-4">
                 <img
-                  src="../../public/images/crew/crew-blue.png"
+                  src="/images/crew/crew-blue.png"
                   alt="Blue Crewmate"
                   className="w-10 h-13"
                 />
@@ -84,7 +84,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4">
                 <img
-                  src="../../public/images/crew/crew-green.png"
+                  src="/images/crew/crew-green.png"
                   alt="Green Crewmate"
                   className="w-10 h-13"
                 />
@@ -97,7 +97,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4">
                 <img
-                  src="/../../public/images/crew/crew-pink.png"
+                  src="/images/crew/crew-pink.png"
                   alt="Pink Crewmate"
                   className="w-10 h-13"
                 />
@@ -107,7 +107,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4">
                 <img
-                  src="../../public/images/crew/crew-white.png"
+                  src="/images/crew/crew-white.png"
                   alt="White Impostor"
                   className="w-10 h-13"
                 />
@@ -120,7 +120,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4">
                 <img
-                  src="../../public/images/crew/crew-purple.png"
+                  src="/images/crew/crew-purple.png"
                   alt="Purple Impostor"
                   className="w-10 h-13"
                 />
@@ -133,7 +133,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4">
                 <img
-                  src="../../public/images/crew/crew-yellow.png"
+                  src="/images/crew/crew-yellow.png"
                   alt="Yellow Impostor"
                   className="w-10 h-13"
                 />
@@ -150,7 +150,7 @@ function HowToPlay() {
         <div className="space-y-12 sm:space-y-16 md:space-y-20">
           <div className="relative">
             <img
-              src="../../public/images/the-impostor.png"
+              src="/images/the-impostor.png"
               alt="The Crew"
               className="mx-auto mb-4 sm:mb-8 h-16 sm:h-20 md:h-24 w-auto"
             />
@@ -160,7 +160,7 @@ function HowToPlay() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 md:gap-10 mx-2 sm:mx-6 md:m-10">
               <div className="flex items-start space-x-4 relative">
                 <img
-                  src="../../public/images/crew/crew-red.png"
+                  src="/images/crew/crew-red.png"
                   alt="Red Crewmate"
                   className="w-8 sm:w-10 h-auto"
                 />
@@ -175,7 +175,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4 relative">
                 <img
-                  src="../../public/images/crew/crew-black.png"
+                  src="/images/crew/crew-black.png"
                   alt="Green Crewmate"
                   className="w-8 sm:w-10 h-auto"
                 />
@@ -190,7 +190,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4 relative">
                 <img
-                  src="/../../public/images/crew/crew-orange-2.png"
+                  src="/images/crew/crew-orange-2.png"
                   alt="Pink Crewmate"
                   className="w-10 h-13"
                 />
@@ -205,7 +205,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4 relative">
                 <img
-                  src="../../public/images/crew/crew-blue-2.png"
+                  src="/images/crew/crew-blue-2.png"
                   alt="White Impostor"
                   className="w-10 h-13"
                 />
@@ -223,7 +223,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4 relative">
                 <img
-                  src="../../public/images/crew/crew-green-2.png"
+                  src="/images/crew/crew-green-2.png"
                   alt="Purple Impostor"
                   className="w-10 h-13"
                 />
@@ -241,7 +241,7 @@ function HowToPlay() {
               </div>
               <div className="flex items-start space-x-4 relative">
                 <img
-                  src="../../public/images/crew/crew-orange.png"
+                  src="/images/crew/crew-orange.png"
                   alt="Yellow Impostor"
                   className="w-10 h-13"
                 />
