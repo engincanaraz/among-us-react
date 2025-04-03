@@ -6,7 +6,7 @@ function News() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div className="bg-among-space rounded-lg overflow-hidden shadow-lg">
           <img
-            src="../../public/images/role.jpeg"
+            src="/images/role.jpeg"
             alt="New Update"
             className="w-full h-64 object-cover"
           />
@@ -32,7 +32,7 @@ function News() {
 
         <div className="bg-among-space rounded-lg overflow-hidden shadow-lg">
           <img
-            src="../../public/images/crewmate.jpeg"
+            src="/images/crewmate.jpeg"
             alt="Community Event"
             className="w-full h-64 object-cover"
           />
@@ -58,7 +58,7 @@ function News() {
 
         <div className="bg-among-space rounded-lg overflow-hidden shadow-lg">
           <img
-            src="../../public/images/space.jpg"
+            src="/images/space.jpg"
             alt="Collaboration News"
             className="w-full h-64 object-cover "
           />
@@ -84,7 +84,7 @@ function News() {
 
         <div className="bg-among-space rounded-lg overflow-hidden shadow-lg">
           <img
-            src="../../public/images/map.png"
+            src="/images/map.png"
             alt="Development Update"
             className="w-full h-64 object-cover  bg-center "
           />
