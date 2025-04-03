@@ -10,11 +10,13 @@ function Hero() {
           src="/images/hero-characters.png"
           alt="Among Us Characters"
           className="w-full object-cover h-screen"
+          loading="lazy"
         />
         <img
           src="/images/curve.png"
           alt=""
           className="absolute bottom-0 w-full z-10"
+          loading="lazy"
         />
       </div>
       <div className="relative z-10 container mx-auto px-4 pt-16 sm:pt-24 md:pt-32 pb-10 sm:pb-16 md:pb-20 h-auto sm:h-64">
@@ -24,6 +26,7 @@ function Hero() {
               src="/images/logoXL.png"
               alt="Among Us Logo"
               className="mt-20 sm:mt-28 md:mt-40 h-24 sm:h-28 md:h-36 w-auto"
+              loading="lazy"
             />
             <div className="flex flex-wrap justify-center gap-4 sm:gap-6 mt-4 sm:mt-8">
               <button 

@@ -37,21 +37,25 @@ function Awards() {
         src="/images/ico/ico-star02.png"
         alt=""
         className="absolute top-28 left-[16%] w-4 sm:w-6 h-4 sm:h-6"
+        loading="lazy"
       />
       <img
         src="/images/ico/ico-star03.png"
         alt=""
         className="absolute top-36 left-[12%] w-4 sm:w-6 h-4 sm:h-6"
+        loading="lazy"
       />
       <img
         src="/images/ico/ico-star04.png"
         alt=""
         className="absolute top-52 right-[14%] w-4 sm:w-6 h-4 sm:h-6"
+        loading="lazy"
       />
       <img
         src="/images/ico/ico-star05.png"
         alt=""
         className="absolute top-32 right-[18%] w-4 sm:w-6 h-4 sm:h-6"
+        loading="lazy"
       />
 
       {/* Yellow player character */}
@@ -59,6 +63,7 @@ function Awards() {
         src="/images/ico/ico-yellow-player.png"
         alt="Yellow Among Us character"
         className="hidden lg:block absolute top-2 left-28 w-24 h-auto z-10"
+        loading="lazy"
       />
 
       {/* Red player character */}
@@ -66,6 +71,7 @@ function Awards() {
         src="/images/ico/ico-red-player.png"
         alt="Red Among Us character"
         className="hidden lg:block absolute top-40 right-28 w-20 h-auto z-10"
+        loading="lazy"
       />
 
       <div className="container mx-auto px-4 relative z-20">
@@ -92,6 +98,7 @@ function Awards() {
                   src="/images/tag.png"
                   alt="Award Tag"
                   className="h-auto w-48 sm:w-64 mx-auto -mt-8 sm:-mt-12"
+                  loading="lazy"
                 />
               )}
               {award.year && (

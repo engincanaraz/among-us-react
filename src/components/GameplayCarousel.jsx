@@ -51,6 +51,7 @@ function GameplayCarousel() {
                 src={screenshot.img}
                 alt={screenshot.title}
                 className="w-full aspect-video object-cover rounded-lg"
+                loading="lazy"
               />
               <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-50 transition-opacity rounded-lg flex items-center justify-center">
                 <span className="text-white body-normal font-bold opacity-0 group-hover:opacity-100 transition-opacity">

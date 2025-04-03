@@ -6,16 +6,19 @@ function HowToPlay() {
         src="/images/ico/ico-black-player.png"
         alt="Black Among Us character"
         className="hidden lg:block absolute top-10 left-28 w-24 h-auto z-10"
+        loading="lazy"
       />
       <img
         src="/images/ico/ico-green-player.png"
         alt="Green Among Us character"
         className="hidden lg:block absolute top-40 left-[18%] w-20 h-auto z-10"
+        loading="lazy"
       />
       <img
         src="/images/ico/ico-purple-player.png"
         alt="Purple Among Us character"
         className="hidden lg:block absolute top-40 right-28 w-20 h-auto z-10"
+        loading="lazy"
       />
 
       {/* Decorative stars */}
@@ -23,21 +26,25 @@ function HowToPlay() {
         src="/images/ico/ico-star02.png"
         alt=""
         className="absolute top-24 left-[15%] w-6 sm:w-9 h-6 sm:h-9"
+        loading="lazy"
       />
       <img
         src="/images/ico/ico-star03.png"
         alt=""
         className="absolute top-64 left-[10%] w-6 sm:w-10 h-6 sm:h-10"
+        loading="lazy"
       />
       <img
         src="/images/ico/ico-star04.png"
         alt=""
         className="absolute top-32 right-[30%] w-4 sm:w-6 h-4 sm:h-6"
+        loading="lazy"
       />
       <img
         src="/images/ico/ico-star05.png"
         alt=""
         className="absolute top-56 right-[12%] w-3 sm:w-5 h-3 sm:h-5"
+        loading="lazy"
       />
 
       <div className="container mx-auto px-4 relative z-20">
@@ -64,6 +71,7 @@ function HowToPlay() {
               src="/images/the-crew.png"
               alt="The Crew"
               className="mx-auto mb-4 sm:mb-8 h-16 sm:h-20 md:h-24 w-auto"
+              loading="lazy"
             />
             <p className="body-large text-white text-center mb-6 sm:mb-8 md:mb-12 font-bold">
               Objective: Fill the group task bar or eject the Impostors
@@ -74,6 +82,7 @@ function HowToPlay() {
                   src="/images/crew/crew-blue.png"
                   alt="Blue Crewmate"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">
@@ -87,6 +96,7 @@ function HowToPlay() {
                   src="/images/crew/crew-green.png"
                   alt="Green Crewmate"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">
@@ -100,6 +110,7 @@ function HowToPlay() {
                   src="/images/crew/crew-pink.png"
                   alt="Pink Crewmate"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">React quickly to undo the Impostor sabotages.</p>
@@ -110,6 +121,7 @@ function HowToPlay() {
                   src="/images/crew/crew-white.png"
                   alt="White Impostor"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">
@@ -123,6 +135,7 @@ function HowToPlay() {
                   src="/images/crew/crew-purple.png"
                   alt="Purple Impostor"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">
@@ -136,6 +149,7 @@ function HowToPlay() {
                   src="/images/crew/crew-yellow.png"
                   alt="Yellow Impostor"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">
@@ -153,6 +167,7 @@ function HowToPlay() {
               src="/images/the-impostor.png"
               alt="The Crew"
               className="mx-auto mb-4 sm:mb-8 h-16 sm:h-20 md:h-24 w-auto"
+              loading="lazy"
             />
             <p className="body-large text-white text-center mb-6 sm:mb-8 md:mb-12 font-bold">
               Objective: Kill off the crew
@@ -163,11 +178,13 @@ function HowToPlay() {
                   src="/images/crew/crew-red.png"
                   alt="Red Crewmate"
                   className="w-8 sm:w-10 h-auto"
+                  loading="lazy"
                 />
                 <img
                   src="/images/ico/ico-red-star.png"
                   alt="Red Star"
                   className="absolute top-1 left-2 sm:left-3 w-4 sm:w-5 h-4 sm:h-5 z-10"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="text-sm sm:text-base">Kill Crewmates and frame innocent bystanders.</p>
@@ -178,11 +195,13 @@ function HowToPlay() {
                   src="/images/crew/crew-black.png"
                   alt="Green Crewmate"
                   className="w-8 sm:w-10 h-auto"
+                  loading="lazy"
                 />
                 <img
                   src="/images/ico/ico-red-star.png"
                   alt="Red Star"
                   className="absolute top-1 left-2 sm:left-3 w-4 sm:w-5 h-4 sm:h-5 z-10"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="text-sm sm:text-base">Pretend to do tasks to blend in with the Crewmates.</p>
@@ -193,11 +212,13 @@ function HowToPlay() {
                   src="/images/crew/crew-orange-2.png"
                   alt="Pink Crewmate"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <img
                   src="/images/ico/ico-red-star.png"
                   alt="Red Star"
                   className="absolute top-1 left-3 w-5 h-5 z-10"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">React quickly to undo the Impostor sabotages.</p>
@@ -208,11 +229,13 @@ function HowToPlay() {
                   src="/images/crew/crew-blue-2.png"
                   alt="White Impostor"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <img
                   src="/images/ico/ico-red-star.png"
                   alt="Red Star"
                   className="absolute top-1 left-3 w-5 h-5 z-10"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">
@@ -226,11 +249,13 @@ function HowToPlay() {
                   src="/images/crew/crew-green-2.png"
                   alt="Purple Impostor"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <img
                   src="/images/ico/ico-red-star.png"
                   alt="Red Star"
                   className="absolute top-1 left-3 w-5 h-5 z-10"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">
@@ -244,11 +269,13 @@ function HowToPlay() {
                   src="/images/crew/crew-orange.png"
                   alt="Yellow Impostor"
                   className="w-10 h-13"
+                  loading="lazy"
                 />
                 <img
                   src="/images/ico/ico-red-star.png"
                   alt="Red Star"
                   className="absolute top-1 left-3 w-5 h-5 z-10"
+                  loading="lazy"
                 />
                 <div className="text-white">
                   <p className="body-normal">

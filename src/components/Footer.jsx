@@ -10,7 +10,7 @@ function Footer() {
           {/* Logo and Description */}
           <div className="col-span-1 md:col-span-2 lg:col-span-1">
             <Link to="/" className="inline-block mb-4">
-              <img src="/images/logo.png" alt="Among Us" className="h-12" />
+              <img src="/images/logo.png" alt="Among Us" className="h-12" loading="lazy" />
             </Link>
             <p className="body-normal text-gray-400 mb-4">
               Among Us is an exciting social deduction game you can play with your friends. Complete tasks as a Crewmate or sabotage as an Impostor!

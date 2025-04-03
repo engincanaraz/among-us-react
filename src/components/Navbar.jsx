@@ -30,7 +30,7 @@ function Navbar() {
           <div className="flex items-center">
             <div className="flex-1">
               <Link to="/" className="text-3xl font-bold text-white">
-                <img src="/images/logo.png" alt="Among Us" className="h-11" />
+                <img src="/images/logo.png" alt="Among Us" className="h-11" loading="lazy" />
               </Link>
             </div>
 
