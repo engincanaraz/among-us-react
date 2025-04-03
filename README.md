@@ -1,11 +1,10 @@
 # Among Us Klonu
 
-![Among Us Logo](/public/images/screenshot.png)
+![Among Us Ss](/public/images/screenshot.png)
 
 ## Proje Linki
-[Among Us Klonu](https://among-us-react.netlify.app/)
+[🌐 Projeyi deneyimlemek için canlı demo](https://among-us-react.netlify.app/)
 
-- [Among Us UI Design by Aniketh](https://www.figma.com/community/file/1185451992736171881) - Bu proje, Aniketh tarafından oluşturulan Figma tasarım şablonu temel alınarak geliştirilmiştir.
 
 ## Proje Hakkında
 
@@ -73,3 +72,8 @@ Projeye katkıda bulunmak isterseniz:
 3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
 4. Dalınıza push yapın (`git push origin yeni-ozellik`)
 5. Bir Pull Request açın
+
+- [Among Us UI Design by Aniketh](https://www.figma.com/community/file/1185451992736171881) - Bu proje, Aniketh tarafından oluşturulan Figma tasarım şablonu temel alınarak geliştirilmiştir.
+   
+
+⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐️ 
